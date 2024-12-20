@@ -7,8 +7,5 @@ this.name,
 this.address,
 this.namber,
 );
-sound (){
-  print('бабушка');
-}
 
 }
