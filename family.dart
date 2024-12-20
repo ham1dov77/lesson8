@@ -3,16 +3,11 @@ import 'grandmother.dart';
 import 'mother.dart';
 
 void main(List<String> args) {
-  Grandmother grandmother = Grandmother('TF', 'GJ');
-Mother mother = Mother('jvf', 'ljk');
-Daughter daughter =Daughter('jaj', 'lkk');
+  Grandmother grandmother = Grandmother('mfg','fgk', '4343535334');
+Mother mother = Mother('mjr', 'rjgr', '939940040');
+Daughter daughter =Daughter('hf', 'gkkf', '657739945');
 List<Grandmother> grandmo =[
-  Mother('SAK', 'KP'),
-Daughter('HK', 'KOP'),
+  Mother('vk', 'huhu', 'hikh'),
+Daughter('kv', 'fk', 'kkf'),
 ];
-mother.sound();
-daughter.sound();
-}
-Grandmother create(){
-  return Daughter('yj', 'uujuj');
 }
